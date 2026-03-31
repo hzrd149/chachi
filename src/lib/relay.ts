@@ -55,9 +55,7 @@ export interface RelayInfo {
   fees?: RelayFees;
 }
 
-export const discoveryRelays = [
-  "wss://purplepag.es",
-];
+export const discoveryRelays = ["wss://relay.primal.net"];
 
 export const fallbackRelays = ["wss://relay.primal.net"];
 
