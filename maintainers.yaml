@@ -1,6 +1,11 @@
 identifier: chachi
 maintainers:
+- npub1ye5ptcxfyyxl5vjvdjar2ua3f0hynkjzpx552mu5snj3qmx5pzjscpknpr
 - npub107jk7htfv243u0x5ynn43scq9wrxtaasmrwwa8lfu2ydwag6cx2quqncxg
 relays:
+- wss://git.shakespeare.diy
+- wss://relay.ngit.dev
+- wss://pyramid.fiatjaf.com
+- wss://relay.kcbitcoiners.com
 - wss://frens.nostr1.com
 - wss://nos.lol
